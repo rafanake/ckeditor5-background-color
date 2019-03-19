@@ -18,11 +18,11 @@ msgstr ""
 
 msgctxt "Botão para remover a cor da fonte."
 msgid "Remove BackgroundColor"
-msgstr "Remover cor"
+msgstr "Remover cor de fundo"
 
 msgctxt "Botão na barra de ferramentas para adicionar cor na fonte."
 msgid "BackgroundColor"
-msgstr "Cor da fonte"
+msgstr "Cor de fundo"
 
 msgid "Black 1"
 msgstr "Preto 1"
