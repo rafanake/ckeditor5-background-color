@@ -1,0 +1,34 @@
+{
+  "name": "ckeditor5-background-color",
+  "version": "1.0.0",
+  "description": "A Background font color plugin feature for CKEditor5",
+  "keywords": [
+    "ckeditor",
+    "ckeditor5",
+    "ckeditor 5",
+    "ckeditor5-feature",
+    "ckeditor5-plugin"
+  ],
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^12.0.0",
+    "@ckeditor/ckeditor5-ui": "^12.0.0"
+  },
+  "devDependencies": {
+	"@ckeditor/ckeditor5-editor-classic": "^11.0.0"
+  },
+  "engines": {
+    "node": ">=8.0.0",
+    "npm": ">=5.7.1"
+  },
+  "author": "Rafael Fiori",
+  "license": "GPL-2.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafanake/ckeditor5-background-color"
+  },
+  "files": [
+    "lang",
+    "src",
+    "theme"
+  ]
+}
